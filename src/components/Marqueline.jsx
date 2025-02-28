@@ -1,5 +1,5 @@
 import React from 'react'
-import { IoMdMail } from "react-icons/io";
+import { IoMdMail } from "react-icons/io5";
 import { MdAddCall } from "react-icons/md";
 import { FaInstagram } from "react-icons/fa6";
 import { FaFacebook } from "react-icons/fa";
